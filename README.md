@@ -1,2 +1,3 @@
 # Certificates
-Здесь собраны сертификаты с пройденных курсов.
+
+Certificates from completed courses
